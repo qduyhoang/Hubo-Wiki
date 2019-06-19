@@ -28,41 +28,41 @@ top):
 
 - The Base (constructed by KAIST and Rainbow)
 
-![](BASE_BOARD.JPEG) 
+![](BASE_BOARD.jpeg) 
 
 - The Hard Drive (SSD)
 
-![](HARD_DRIVE.JPEG)
+![](HARD_DRIVE.jpeg)
 
 - CAN Board
 
-![](CAN_BOARD.JPEG)
+![](CAN_BOARD.jpeg)
 
 - Main board with Processor on top and RAM on underside
 
-![](Processor_board.JPEG)
+![](Processor_board.jpeg)
 
-![](RAM.JPEG)
+![](RAM.jpeg)
 
 - Wireless adaptor (inserted in Main processing board)
 
-![](WIFI.JPEG )
+![](WIFI.jpeg )
 
 - Heat sync
 
-![](HEAT_SYNC.JPEG)
+![](HEAT_SYNC.jpeg)
 
 - Temperature Sensor
 
-![TEMP\_SENSOR.JPG](TEMP_SENSOR.JPEG)
+![TEMP\_SENSOR.JPG](TEMP_SENSOR.jpeg)
 
 - Top Cover
 
-![](TOP.JPEG)
+![](TOP.jpeg)
 
 In order to put these together in a PC-104 setup various hexagonal
 spacers and washers were used (pictured below).
 
-![](SPACERS.JPEG)
+![](SPACERS.jpeg)
 
-![](SPACERS_AND_SCREWS.JPEG)
+![](SPACERS_AND_SCREWS.jpeg)
