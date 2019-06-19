@@ -1,6 +1,6 @@
 Instructions and manuals on how to operate the Hubo+
 
-![](HuboPlusInstructions.pdf) - Basic operation and calibration
+![](./HuboPlusInstructions.pdf) - Basic operation and calibration
 instructions
 
 ![](Hubo_Windows_Programming.pdf) - Programming using Windows RTX

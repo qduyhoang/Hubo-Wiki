@@ -8,15 +8,18 @@
 
 ### Socket Head Cap Screws
 
-| Size | Length(mm) | Pitch(mm) | Quantity | 1:1                                    |
-| ---- | ---------- | --------- | -------- | -------------------------------------- |
-| M3   | 8          | 0.5       | **6**    | ![M3x8.gif‎](M3x8.gif‎ "M3x8.gif‎")    |
-| M4   | 6          | 0.7       | **8**    | ![M4x6.gif‎](M4x6.gif‎ "M4x6.gif‎")    |
-| M4   | 8          | 0.7       | **8**    | ![M4x8.gif‎](M4x8.gif‎ "M4x8.gif‎")    |
-| M5   | 8          | 0.8       | **16**   | ![M5x8.gif‎](M5x8.gif‎ "M5x8.gif‎")    |
-| M5   | 10         | 0.8       | **8**    | ![M5x10.gif‎](M5x10.gif‎ "M5x10.gif‎") |
+```eval_rst
+==== ========== ========= ======== ============
+Size Length(mm) Pitch(mm) Quantity 1:1
+==== ========== ========= ======== ============
+M3   8          0.5       **6**    .. image:: M3x8.gif
+M4   6          0.7       **8**    .. image:: M4x6.gif
+M4   8          0.7       **8**    .. image:: M4x8.gif
+M5   8          0.8       **16**   .. image:: M5x8.gif
+M5   10         0.8       **8**    .. image:: M5x10.gif
+==== ========== ========= ======== ============
 
-
+```
 
 ## Computer
 
@@ -25,42 +28,41 @@ top):
 
 - The Base (constructed by KAIST and Rainbow)
 
-![BASE\_BOARD.JPG](BASE_BOARD.JPG "BASE_BOARD.JPG")
+![](BASE_BOARD.JPEG) 
 
 - The Hard Drive (SSD)
 
-![HARD\_DRIVE.JPG](HARD_DRIVE.JPG "HARD_DRIVE.JPG")
+![](HARD_DRIVE.JPEG)
 
 - CAN Board
 
-![CAN\_BOARD.JPG](CAN_BOARD.JPG "CAN_BOARD.JPG")
+![](CAN_BOARD.JPEG)
 
 - Main board with Processor on top and RAM on underside
 
-![Processor\_board.JPG](Processor_board.JPG "Processor_board.JPG")
+![](Processor_board.JPEG)
 
-![RAM.JPG](RAM.JPG "RAM.JPG")
+![](RAM.JPEG)
 
 - Wireless adaptor (inserted in Main processing board)
 
-![WIFI.JPG](WIFI.JPG "WIFI.JPG")
+![](WIFI.JPEG )
 
 - Heat sync
 
-![HEAT\_SYNC.JPG](HEAT_SYNC.JPG "HEAT_SYNC.JPG")
+![](HEAT_SYNC.JPEG)
 
 - Temperature Sensor
 
-![TEMP\_SENSOR.JPG](TEMP_SENSOR.JPG "TEMP_SENSOR.JPG")
+![TEMP\_SENSOR.JPG](TEMP_SENSOR.JPEG)
 
 - Top Cover
 
-![TOP.JPG](TOP.JPG "TOP.JPG")
+![](TOP.JPEG)
 
 In order to put these together in a PC-104 setup various hexagonal
 spacers and washers were used (pictured below).
 
-![SPACERS.JPG](SPACERS.JPG "SPACERS.JPG")
+![](SPACERS.JPEG)
 
-![SPACERS\_AND\_SCREWS.JPG](SPACERS_AND_SCREWS.JPG
-"SPACERS_AND_SCREWS.JPG")
+![](SPACERS_AND_SCREWS.JPEG)
