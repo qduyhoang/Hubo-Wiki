@@ -1,0 +1,14 @@
+Instructions and manuals on how to operate the Hubo+
+
+![HuboPlusInstructions.pdf](HuboPlusInstructions.pdf
+"HuboPlusInstructions.pdf") - Basic operation and calibration
+instructions
+
+![Hubo\_Windows\_Programming.pdf](Hubo_Windows_Programming.pdf
+"Hubo_Windows_Programming.pdf") - Programming using Windows RTX
+
+![Hubo-I\_protocol\_commander.pdf](Hubo-I_protocol_commander.pdf
+"Hubo-I_protocol_commander.pdf") - Hubo-I operating instructions
+
+![Hubo\_II\_CAN\_Message\_Protocols.pdf](Hubo_II_CAN_Message_Protocols.pdf
+"Hubo_II_CAN_Message_Protocols.pdf") - CAN message protocols

@@ -1,0 +1,41 @@
+[HUBO++ Manual Introduction](HUBO++_Manual_Introduction "wikilink")
+
+### Click a part of [HUBO++](#hubo "wikilink") for disassembly/assembly instructions:
+
+<span id="hubo"><imagemap>Image:HuboMap.jpg| rect 144 334 316 412
+[](Hubo_Hip_\(Pitch-Roll_Unit\) "wikilink") rect 144 415 321 546
+[](Hubo_Knee/Thigh "wikilink") rect 144 548 322 635
+[](Hubo_Shin "wikilink") rect 143 637 325 700
+[BITCHES](Hubo_Ankle_\(Pitch-Roll_Unit\) "wikilink") rect 134 701 332
+748 [](Hubo_Foot "wikilink") rect 154 276 305 331
+[](Hubo_Waist "wikilink") rect 145 143 312 273 [](Hubo_Chest "wikilink")
+rect 181 40 275 141 [](Hubo_Neck "wikilink") rect 370 3 442 88
+[](Hubo_Hand "wikilink") rect 62 363 120 427 [](Hubo_Hand "wikilink")
+poly 113 361 55 362 95 154 144 155 144 191 124 290
+[](Hubo_Arm "wikilink") poly 385 91 435 91 449 176 427 203 399 220 318
+215 315 144 326 137 386 139 387 130 [](Hubo_Arm "wikilink")
+
+1.  
+</imagemap></span>  
+
+### Instructional Pages:
+
+- [HUBO Manual Introduction](HUBO_Manual_Introduction "wikilink")  
+
+#### Upper Body
+
+- [Hubo Neck](Hubo_Neck "wikilink")
+- [Hubo Chest](Hubo_Chest "wikilink")  
+- [Hubo Arm](Hubo_Arm "wikilink")  
+- [Hubo Hand](Hubo_Hand "wikilink")  
+
+#### Lower Body
+
+- [Hubo Waist](Hubo_Waist "wikilink")  
+- [Hubo Hip (Pitch-Roll
+Unit)](Hubo_Hip_\(Pitch-Roll_Unit\) "wikilink")  
+- [Hubo Knee/Thigh](Hubo_Knee/Thigh "wikilink")  
+- [Hubo Shin](Hubo_Shin "wikilink")  
+- [Hubo Ankle (Pitch-Roll
+Unit)](Hubo_Ankle_\(Pitch-Roll_Unit\) "wikilink")  
+- [Hubo Foot](Hubo_Foot "wikilink")
